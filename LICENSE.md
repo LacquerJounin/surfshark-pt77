@@ -1,4 +1,4 @@
-
+updated App for Surfshark - port-forwarding and dedicated-IP offers the most advanced Surfshark app, with port-forwarding and dedicated-IP. Ideal for users who value privacy and
 
 
 
